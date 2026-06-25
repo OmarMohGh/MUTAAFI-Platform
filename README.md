@@ -461,36 +461,18 @@ python train_workout_model.py
 
 **Evaluation:** Faithfulness, Answer Relevancy, Context Precision, Context Recall (RAGAS)
 
----
 
-## 🔒 Security
-
-- Write operations use the **Service Role Key** server-side (bypasses RLS safely)
-- Client reads use the **anon key** scoped by Supabase Row Level Security
-- JWTs decoded per-request — never cached or stored server-side
-- `/api/admin/knowledge` restricted to `admin@mutaafi.com` via server-side email check
-- Allergen filtering applied at both the meal planner and AI coach level
-- All secrets are excluded from version control via `.gitignore`
 
 ---
 
-## 🔗 Related Repositories
 
-| Module | Repository |
-|--------|-----------|
-| **RAG Chatbot** (standalone) | [MUTAAFI-RAG-Chatbot](https://github.com/OmarMohGh/MUTAAFI-RAG-Chatbot) |
-| **Full Platform** (this repo) | [MUTAAFI-Platform](https://github.com/OmarMohGh/MUTAAFI-Platform) |
-
----
 
 ## 👥 Team
 
 **MUTAAFI Development Team — CPCS 499 (2025–2026)**
 King Abdulaziz University — Faculty of Computing & Information Technology
 
-📧 [dev@mutaafi.com](mailto:dev@mutaafi.com)
 
----
 
 ## 📄 License
 
