@@ -6,7 +6,7 @@
 
 *Personalized workout plans · Intelligent meal generation · RAG-powered AI Coach*
 
-**CPCS 499 — Senior Capstone Project · King Abdulaziz University · 2025–2026**
+**CPCS 499 — Senior Project · King Abdulaziz University · 2025–2026**
 
 ---
 
