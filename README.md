@@ -6,7 +6,6 @@
 
 *Personalized workout plans · Intelligent meal generation · RAG-powered AI Coach*
 
-**CPCS 499 — Senior Project · King Abdulaziz University · 2025–2026**
 
 ---
 
@@ -23,7 +22,7 @@
 
 ## 📌 What is MUTAAFI?
 
-**MUTAAFI** (مُتعافِي ) is a full-stack AI fitness and nutrition platform. It generates personalized meal and workout plans, tracks daily activity, and answers health questions through a conversational AI coach — all tailored to the authenticated user's body metrics, goals, and dietary restrictions.
+**MUTAAFI** (مُتعافِي ) is a full-stack AI fitness and nutrition platform. It generates personalized meal and workout plans, tracks daily activity, and answers health questions through a conversational AI coach, all tailored to the authenticated user's body metrics, goals, and dietary restrictions.
 
 The platform is built around three core AI systems:
 
