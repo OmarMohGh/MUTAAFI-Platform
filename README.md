@@ -23,7 +23,7 @@
 
 ## 📌 What is MUTAAFI?
 
-**MUTAAFI** (مُتعافِي — Arabic for *one who recovers / gets well*) is a full-stack AI fitness and nutrition platform. It generates personalized meal and workout plans, tracks daily activity, and answers health questions through a conversational AI coach — all tailored to the authenticated user's body metrics, goals, and dietary restrictions.
+**MUTAAFI** (مُتعافِي ) is a full-stack AI fitness and nutrition platform. It generates personalized meal and workout plans, tracks daily activity, and answers health questions through a conversational AI coach — all tailored to the authenticated user's body metrics, goals, and dietary restrictions.
 
 The platform is built around three core AI systems:
 
@@ -463,18 +463,4 @@ python train_workout_model.py
 
 
 
----
 
-
-
-## 👥 Team
-
-**MUTAAFI Development Team — CPCS 499 (2025–2026)**
-King Abdulaziz University — Faculty of Computing & Information Technology
-
-
-
-## 📄 License
-
-This project was developed as a senior capstone project (CPCS 499) at King Abdulaziz University.
-All rights reserved © 2026 MUTAAFI Team.
